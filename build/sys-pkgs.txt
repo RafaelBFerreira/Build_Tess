@@ -1,0 +1,1 @@
+sudo automake pkg-config libsdl-pango-dev libicu-dev libcairo2-dev bc libleptonica-dev
