@@ -1,4 +1,4 @@
-# **Compile Tesseract-OCR with any Python**
+# **Compile Tess-OCR Image**
 
 Projeto de compilação do tesseract a partir da imagem docker [Python 3.6](https://hub.docker.com/layers/python/library/python/3.6/images/sha256-cd3be217ce0a79835197ca54dba2d90ab95b04f3e4443680b85494db2a0b68e2?context=explore) ou qualquer outra imagem python disponivel.
 
